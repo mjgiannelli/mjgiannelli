@@ -1,6 +1,6 @@
-[www.markgiannelli.com](www.markgiannelli.com)
+[www.markgiannelli.com](https://www.markgiannelli.com/)
 
-# Hi there, my name is Mark Giannelli! Here's a little :tea: about me :smile:
+# Hi there, my name is Mark Giannelli! <br> Here's a little :tea: about me :smile:
 
 Accountant turned developer May 2, 2021! This is my absolute passion in life <br>
 and I can't wait to be given the opportunity to turn it into a career! :heart_on_fire:
