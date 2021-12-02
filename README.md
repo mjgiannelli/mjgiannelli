@@ -27,7 +27,7 @@ and I can't wait to earn the opportunity to turn it into a career! :heart_on_fir
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-white)&nbsp;
 ![Handlebars.js](https://img.shields.io/badge/NPM_Package-Handlebars.js-blue)&nbsp;&nbsp;&nbsp;&nbsp;
 ![React Context API](https://img.shields.io/badge/Global_State-React_Context_API-blueviolet) <br>
-![LESS](https://img.shields.io/badge/Language-LESS-red)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-red)
 ![jQuery](https://img.shields.io/badge/Framework-jQuery-white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Express Sessions](https://img.shields.io/badge/NPM_Package-Express_Sessions-blue)
 ![Redux](https://img.shields.io/badge/Global_State-Redux-blueviolet)
